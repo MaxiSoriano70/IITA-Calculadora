@@ -30,6 +30,7 @@ def ingresarNumeroDistintoDeCero():
         print("Error: Debes ingresar un número no se permiten letras o caracteres especiales.")
         return ingresarNumero()
 
+#Funcion Sumar
 def sumar():
     numero1 = ingresarNumero()
     numero2 = ingresarNumero()
