@@ -44,12 +44,14 @@ def restar():
     suma = numero1 - numero2
     print(f"{numero1} - {numero2} = {suma}")
 
+#Funcion Multiplicar
 def multiplicar():
     numero1 = ingresarNumero()
     numero2 = ingresarNumero()
     suma = numero1 * numero2
     print(f"{numero1} x {numero2} = {suma}")
 
+#Funcion Dividir
 def dividir():
     numero1 = ingresarNumero()
     numero2 = ingresarNumeroDistintoDeCero()
