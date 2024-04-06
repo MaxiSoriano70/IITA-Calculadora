@@ -37,6 +37,7 @@ def sumar():
     suma = numero1 + numero2
     print(f"{numero1} + {numero2} = {suma}")
 
+#Funcion Restar
 def restar():
     numero1 = ingresarNumero()
     numero2 = ingresarNumero()
