@@ -79,3 +79,7 @@ def calculadora():
             print("Opción inválida. Por favor, selecciona una opción válida.")
 
 calculadora()
+
+"""
+    COMENTARIO AGREGADO DESDE LAS RAMA_1
+"""
